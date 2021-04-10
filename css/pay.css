@@ -82,7 +82,7 @@ body {
 
 .payingtext {
 	color: #ffffff;
-	font-family: Krona One;
+	font-family: Poppins;
 	font-size: 16px;
 	text-align: center;
 	font-weight: bold;
@@ -90,7 +90,7 @@ body {
 
 .vpatext {
 	color: #ffffff;
-	font-family: Krona One;
+	font-family: Poppins;
 	font-size: 12px;
 	text-align: center;
 	font-weight: bold;
@@ -131,7 +131,7 @@ body {
 
 .logo {
 	color: #000000;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', serif;
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
@@ -163,7 +163,7 @@ body {
 
 .logowhite {
 	color: #ffffff;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', serif;
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
@@ -180,7 +180,7 @@ body {
 
 .tpf {
 	color: #000000;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', serif;
 	font-size: 10px;
 	font-weight: bold;
 	text-align: center;
