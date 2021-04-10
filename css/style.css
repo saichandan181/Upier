@@ -82,7 +82,7 @@ body {
 
 .logo {
 	color: #000000;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', serif;
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
@@ -114,7 +114,7 @@ body {
 
 .logowhite {
 	color: #ffffff;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', serif;
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
@@ -131,7 +131,7 @@ body {
 
 .tpf {
 	color: #000000;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', serif;
 	font-size: 10px;
 	font-weight: bold;
 	text-align: center;
@@ -195,7 +195,7 @@ body {
 
 .pdetailupiid {
 	color: #000000;
-	font-family: Krona One;
+	font-family: Poppins;
 	font-size: 14px;
 	font-weight: bold;
 	text-align: center;
@@ -216,7 +216,7 @@ body {
 
 .pdetailamount {
 	color: #000000;
-	font-family: Krona One;
+	font-family: Poppins;
 	font-size: 17px;
 	font-weight: bold;
 	text-align: center;
@@ -288,7 +288,7 @@ body {
 
 .paymentlinktxt {
 	color: #000000;
-	font-family: Krona One;
+	font-family: Poppins;
 	font-size: 15px;
 	font-weight: bold;
 	text-align: center;
