@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/cachecleanerjeet/Upier"><img src="https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/githubstatic%2Fupier.svg?alt=media&token=43bd247f-4737-40be-8a15-1a145a17652d" alt="Upier" width="300"></a>
 </h1>
-<h4 align="center"><a href="https://github.com/cachecleanerjeet/Upier" target="_blank">Upier</a> Is a Free and Secure Plartform to Create & Share UPI Payment's Link
+<h4 align="center"><a href="https://github.com/Redop1189/Upier" target="_blank">Upier</a> Is a Free and Secure Plartform to Create & Share UPI Payment's Link
  <br> <br> <a href="https://upier-pp.vercel.app/" align="center"><img src="https://img.shields.io/badge/create--a--payment--link-green?style=for-the-badge" alt="Upier" ></a>
 </h4>
 
@@ -48,24 +48,24 @@ Redesigned & Redeveloped by [Me (Prathamesh)](https://github.com/Redop1189 "Me (
 <br>
 <p align="center">
  
- <a href="https://tu.hin.life">
-    <img alt="Website" width="30px" src="https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/githubstatic%2Fwebsite.svg?alt=media&token=5c3ea7e0-d4f7-4566-b78a-bdee6c65f03e" />
+ <a href="https://prathameshpawar.vercel.app/">
+    <img alt="Website" width="35px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/Website-logo.svg" />
   </a>  
 ..
-<a href="https://fb.me/jeeetpaul">
-    <img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+<a href="https://www.facebook.com/">
+    <img alt="Facebook" width="50px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/facebook.svg" />
   </a>  
 ..
-  <a href="https://www.instagram.com/jeeetpaul">
-    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  <a href="https://www.instagram.com/prathameshpawar1189">
+    <img alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/instagram.svg" />
   </a>
 ..
-  <a href="https://www.youtube.com/channel/UCa4FMtLpYcOBtjKOZgzTFNA">
-    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  <a href="https://www.youtube.com/">
+    <img alt="YouTube" width="40px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/youtube2.svg" />
   </a>
 ..
-  <a href="https://blog.iamtuhin.ga">
-    <img alt="Blogger" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/blogger.svg" />
+  <a href="https://www.google.com/">
+    <img alt="Blogger" width="40px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/mail-icon.svg" />
   </a>
   
 </p>
