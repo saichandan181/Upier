@@ -47,25 +47,27 @@ Redesigned & Redeveloped by [Me (Prathamesh)](https://github.com/Redop1189 "Me (
 <p align="center"> <b>My Website & Social</b></p>
 <br>
 <p align="center">
- 
+ <code>
+   
  <a href="https://prathameshpawar.vercel.app/">
     <img alt="Website" width="35px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/Website-logo.svg" />
   </a>  
-..
+
 <a href="https://www.facebook.com/">
     <img alt="Facebook" width="50px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/facebook.svg" />
   </a>  
-..
+
   <a href="https://www.instagram.com/prathameshpawar1189">
     <img alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/instagram.svg" />
   </a>
-..
+
   <a href="https://www.youtube.com/">
     <img alt="YouTube" width="40px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/youtube2.svg" />
   </a>
-..
+
   <a href="https://www.google.com/">
     <img alt="Blogger" width="40px" src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/Brand-Logos/mail-icon.svg" />
   </a>
   
+</code> 
 </p>
