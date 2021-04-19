@@ -28,6 +28,7 @@ body {
   margin-top: 10px;
   width: 340px;
   background: #3A81F1;
+  box-shadow: 0 10px 40px rgb(58 129 241 / 50%);
   border-radius: 10px;
 }
 
@@ -38,6 +39,7 @@ body {
   width: 340px;
   height: 581px;
   background: #1e5ec5;
+  box-shadow: 0 10px 40px rgb(58 129 241 / 50%);
   border-radius: 10px;
 }
 
